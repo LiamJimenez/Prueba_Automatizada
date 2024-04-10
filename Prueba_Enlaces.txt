@@ -1,0 +1,8 @@
+Enlace GitHub:
+https://github.com/LiamJimenez/Prueba_Automatizada.git
+
+Enlace Product Backlog:
+https://dev.azure.com/20220818/Prueba%20automatizada/_backlogs/backlog/Prueba%20automatizada%20Team/Stories
+
+Enlace Video de la Prueba Automatizada:
+Video de incremento-20240410_151314-Grabación de la reunión.mp4
